@@ -429,7 +429,7 @@ blockquote {
 }
 
 .space-top {
-  margin-top: 40px;
+  margin-top: 16px;
 }
 
 .space-top-medium {
@@ -533,6 +533,9 @@ blockquote {
   -webkit-backdrop-filter: brightness(200%);
   backdrop-filter: brightness(200%);
   color: #fff;
+  border-style: solid;
+  border-color: #ffffff1a;
+  border-width: 2px;
 }
 
 .glowing-card.smaller {
