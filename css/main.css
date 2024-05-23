@@ -248,8 +248,7 @@ blockquote {
 }
 
 .webflow-button.nav {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 20px;
 }
 
 .webflow-button.nav.mobile {
